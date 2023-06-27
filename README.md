@@ -17,7 +17,9 @@ As a full stack software enginner, I have enjoyed using Ruby, Javascript, React/
 - Databases: PostgresQL, MongoDB
 
 ## Projects
-
+- Stellar
+- Mist
+- Fit or Fad
 
 ## Contact
 
